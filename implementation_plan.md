@@ -1,5 +1,5 @@
 1. Develop logic gate library
-    * Coding
+    * ~Coding~
     * Learn about implementation
     * Actually implement
 2. Develop text based logic interface
