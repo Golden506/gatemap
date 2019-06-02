@@ -1,7 +1,7 @@
-1. Develop logic gate library
+1. ~Develop logic gate library~
     * ~Coding~
-    * Learn about implementation
-    * Actually implement
+    * ~Learn about implementation~
+    * ~Actually implement~
 2. Develop text based logic interface
     * Set up CLI to create and link gates
     * Set up code to generate actual code(using logic gate library) based off of gates user has created and linked
